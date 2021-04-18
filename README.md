@@ -1,2 +1,2 @@
 # pageview
-Quick hack to get view counter inn ghost blog
+Quick hack to get view counter in ghost blog
